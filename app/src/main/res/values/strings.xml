@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">How-To: Biometric</string>
+    <string name="strong_button_label">Strong biometry</string>
+    <string name="weak_button_label">Weak biometry</string>
+</resources>
